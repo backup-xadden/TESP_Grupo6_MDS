@@ -21,5 +21,15 @@ namespace ProjetoMetodologia
         {
             
         }
+
+        private void btnenter_Click(object sender, EventArgs e)
+        {
+
+            //opens homepage, corre quando o login for true
+            Homepage homepage = new Homepage();
+
+            if (homepage.ShowDialog() != DialogResult.OK)
+                return;
+        }
     }
 }

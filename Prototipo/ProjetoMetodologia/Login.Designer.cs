@@ -39,20 +39,23 @@
             // 
             // btnenter
             // 
-            this.btnenter.Location = new System.Drawing.Point(205, 177);
+            this.btnenter.Location = new System.Drawing.Point(154, 144);
+            this.btnenter.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnenter.Name = "btnenter";
-            this.btnenter.Size = new System.Drawing.Size(80, 28);
+            this.btnenter.Size = new System.Drawing.Size(60, 23);
             this.btnenter.TabIndex = 0;
             this.btnenter.Text = "Enter";
             this.btnenter.UseVisualStyleBackColor = true;
+            this.btnenter.Click += new System.EventHandler(this.btnenter_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 79);
+            this.label1.Location = new System.Drawing.Point(9, 64);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(91, 20);
+            this.label1.Size = new System.Drawing.Size(77, 17);
             this.label1.TabIndex = 1;
             this.label1.Text = "Username:";
             // 
@@ -60,52 +63,57 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(12, 128);
+            this.label2.Location = new System.Drawing.Point(9, 104);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 20);
+            this.label2.Size = new System.Drawing.Size(73, 17);
             this.label2.TabIndex = 2;
             this.label2.Text = "Password:";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(109, 79);
+            this.textBox1.Location = new System.Drawing.Point(82, 64);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(176, 22);
+            this.textBox1.Size = new System.Drawing.Size(133, 20);
             this.textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(109, 128);
+            this.textBox2.Location = new System.Drawing.Point(82, 104);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(176, 22);
+            this.textBox2.Size = new System.Drawing.Size(133, 20);
             this.textBox2.TabIndex = 4;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 20);
+            this.label3.Location = new System.Drawing.Point(9, 16);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(286, 29);
+            this.label3.Size = new System.Drawing.Size(227, 24);
             this.label3.TabIndex = 5;
             this.label3.Text = "Albert Einstein Hospital";
             // 
             // btnexit
             // 
-            this.btnexit.Location = new System.Drawing.Point(16, 177);
+            this.btnexit.Location = new System.Drawing.Point(12, 144);
+            this.btnexit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnexit.Name = "btnexit";
-            this.btnexit.Size = new System.Drawing.Size(80, 28);
+            this.btnexit.Size = new System.Drawing.Size(60, 23);
             this.btnexit.TabIndex = 6;
             this.btnexit.Text = "Exit";
             this.btnexit.UseVisualStyleBackColor = true;
             this.btnexit.Click += new System.EventHandler(this.btnexit_Click);
             // 
-            // Form1
+            // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(304, 223);
+            this.ClientSize = new System.Drawing.Size(239, 181);
             this.Controls.Add(this.btnexit);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox2);
@@ -113,7 +121,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnenter);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Name = "Login";
             this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();

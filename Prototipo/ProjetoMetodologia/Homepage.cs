@@ -16,5 +16,13 @@ namespace ProjetoMetodologia
         {
             InitializeComponent();
         }
+
+        private void buttonRegisterPatient_Click(object sender, EventArgs e)
+        {
+            RegisterCliente registerCliente = new RegisterCliente();
+
+            if (registerCliente.ShowDialog() != DialogResult.OK)
+                return;
+        }
     }
 }
