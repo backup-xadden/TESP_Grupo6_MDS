@@ -38,5 +38,12 @@ namespace ProjetoMetodologia
             if (view.ShowDialog() != DialogResult.OK)
                 return;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Register_medical_details reg = new Register_medical_details();
+            if (reg.ShowDialog() != DialogResult.OK)
+                return;
+        }
     }
 }

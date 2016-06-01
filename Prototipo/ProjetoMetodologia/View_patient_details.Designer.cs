@@ -28,16 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label13 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
@@ -57,35 +53,13 @@
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(13, 13);
-            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(52, 17);
-            this.label13.TabIndex = 21;
-            this.label13.Text = "Patient";
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(13, 36);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(188, 24);
-            this.comboBox1.TabIndex = 20;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.textBox7);
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Controls.Add(this.textBox10);
             this.groupBox2.Controls.Add(this.textBox11);
-            this.groupBox2.Controls.Add(this.textBox12);
             this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Controls.Add(this.label9);
             this.groupBox2.Controls.Add(this.label12);
             this.groupBox2.Location = new System.Drawing.Point(412, 13);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
@@ -98,17 +72,17 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(9, 379);
+            this.textBox7.Location = new System.Drawing.Point(12, 341);
             this.textBox7.Margin = new System.Windows.Forms.Padding(4);
             this.textBox7.Multiline = true;
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(571, 88);
+            this.textBox7.Size = new System.Drawing.Size(571, 129);
             this.textBox7.TabIndex = 11;
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(6, 358);
+            this.label8.Location = new System.Drawing.Point(9, 320);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(79, 17);
@@ -117,55 +91,36 @@
             // 
             // textBox10
             // 
-            this.textBox10.Location = new System.Drawing.Point(9, 281);
+            this.textBox10.Location = new System.Drawing.Point(12, 215);
             this.textBox10.Margin = new System.Windows.Forms.Padding(4);
             this.textBox10.Multiline = true;
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(571, 73);
+            this.textBox10.Size = new System.Drawing.Size(571, 98);
             this.textBox10.TabIndex = 9;
             // 
             // textBox11
             // 
-            this.textBox11.Location = new System.Drawing.Point(11, 193);
+            this.textBox11.Location = new System.Drawing.Point(8, 43);
             this.textBox11.Margin = new System.Windows.Forms.Padding(4);
             this.textBox11.Multiline = true;
             this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(568, 59);
+            this.textBox11.Size = new System.Drawing.Size(568, 136);
             this.textBox11.TabIndex = 8;
-            // 
-            // textBox12
-            // 
-            this.textBox12.Location = new System.Drawing.Point(8, 52);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox12.Multiline = true;
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(571, 99);
-            this.textBox12.TabIndex = 7;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(8, 175);
+            this.label1.Location = new System.Drawing.Point(5, 25);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(123, 17);
             this.label1.TabIndex = 2;
             this.label1.Text = "Actual Medication:";
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(8, 31);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(98, 17);
-            this.label9.TabIndex = 1;
-            this.label9.Text = "Family Doctor:";
-            // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(8, 260);
+            this.label12.Location = new System.Drawing.Point(11, 194);
             this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(136, 17);
@@ -187,11 +142,11 @@
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Location = new System.Drawing.Point(13, 68);
+            this.groupBox1.Location = new System.Drawing.Point(13, 13);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(391, 316);
+            this.groupBox1.Size = new System.Drawing.Size(391, 371);
             this.groupBox1.TabIndex = 17;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Patient personal information";
@@ -323,8 +278,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1006, 504);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.label13);
-            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "View_patient_details";
@@ -334,22 +287,16 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox12;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox textBox9;

@@ -44,9 +44,9 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.textBox1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Location = new System.Drawing.Point(6, 105);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(422, 222);
+            this.groupBox1.Size = new System.Drawing.Size(422, 168);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Diagnose";
@@ -56,7 +56,7 @@
             this.textBox1.Location = new System.Drawing.Point(6, 21);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(410, 195);
+            this.textBox1.Size = new System.Drawing.Size(410, 139);
             this.textBox1.TabIndex = 0;
             // 
             // groupBox2
@@ -80,9 +80,9 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.textBox3);
-            this.groupBox3.Location = new System.Drawing.Point(12, 240);
+            this.groupBox3.Location = new System.Drawing.Point(12, 279);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(422, 214);
+            this.groupBox3.Size = new System.Drawing.Size(422, 175);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Medication";
@@ -92,7 +92,7 @@
             this.textBox3.Location = new System.Drawing.Point(6, 19);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(410, 189);
+            this.textBox3.Size = new System.Drawing.Size(410, 146);
             this.textBox3.TabIndex = 1;
             // 
             // btnsavedetails
