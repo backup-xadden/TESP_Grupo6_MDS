@@ -36,10 +36,10 @@
             // 
             // buttonRegisterPatient
             // 
-            this.buttonRegisterPatient.Location = new System.Drawing.Point(9, 10);
-            this.buttonRegisterPatient.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonRegisterPatient.Location = new System.Drawing.Point(223, 21);
+            this.buttonRegisterPatient.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.buttonRegisterPatient.Name = "buttonRegisterPatient";
-            this.buttonRegisterPatient.Size = new System.Drawing.Size(128, 88);
+            this.buttonRegisterPatient.Size = new System.Drawing.Size(171, 50);
             this.buttonRegisterPatient.TabIndex = 0;
             this.buttonRegisterPatient.Text = "Register Patient";
             this.buttonRegisterPatient.UseVisualStyleBackColor = true;
@@ -47,44 +47,46 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(326, 10);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Location = new System.Drawing.Point(223, 75);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(128, 88);
+            this.button2.Size = new System.Drawing.Size(171, 47);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "Search Patient";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(9, 184);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button3.Location = new System.Drawing.Point(223, 126);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(128, 88);
+            this.button3.Size = new System.Drawing.Size(171, 47);
             this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
+            this.button3.Text = "View Details";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(326, 184);
-            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button4.Location = new System.Drawing.Point(465, 33);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(128, 88);
+            this.button4.Size = new System.Drawing.Size(139, 38);
             this.button4.TabIndex = 3;
-            this.button4.Text = "button4";
+            this.button4.Text = "Log out";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // Homepage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(462, 281);
+            this.ClientSize = new System.Drawing.Size(616, 346);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.buttonRegisterPatient);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Homepage";
             this.Text = "Homepage";
             this.ResumeLayout(false);
