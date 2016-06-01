@@ -20,6 +20,8 @@ namespace ProjetoMetodologia
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
+            Homepage frm = new Homepage();
+            frm.Show();
         }
 
         private void btnsavedetails_Click(object sender, EventArgs e)

@@ -35,6 +35,8 @@ namespace ProjetoMetodologia
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
+            Homepage frm = new Homepage();
+            frm.Show();
         }
     }
 }
