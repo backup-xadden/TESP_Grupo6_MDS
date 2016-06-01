@@ -100,6 +100,18 @@
     <Compile Include="RegisterCliente.Designer.cs">
       <DependentUpon>RegisterCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="Register_medical_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register_medical_details.Designer.cs">
+      <DependentUpon>Register_medical_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_patient_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_patient_details.Designer.cs">
+      <DependentUpon>View_patient_details.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -117,6 +129,12 @@
     </Compile>
     <EmbeddedResource Include="RegisterCliente.resx">
       <DependentUpon>RegisterCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register_medical_details.resx">
+      <DependentUpon>Register_medical_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_patient_details.resx">
+      <DependentUpon>View_patient_details.cs</DependentUpon>
     </EmbeddedResource>
     <EntityDeploy Include="LoginDB.edmx">
       <Generator>EntityModelCodeGenerator</Generator>

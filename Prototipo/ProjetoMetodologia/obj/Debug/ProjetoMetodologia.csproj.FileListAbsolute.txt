@@ -14,3 +14,6 @@ C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bi
 C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.xml
 C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.exe.config
+C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.exe
+C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.pdb
