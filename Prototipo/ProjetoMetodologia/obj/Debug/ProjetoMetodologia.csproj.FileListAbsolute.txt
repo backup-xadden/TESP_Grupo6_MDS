@@ -17,6 +17,7 @@ C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bi
 C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.exe.config
 C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.exe
 C:\Users\Ryan\Desktop\Extra\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.pdb
+<<<<<<< HEAD
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.exe.config
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.exe
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.pdb
@@ -34,3 +35,25 @@ C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Register_medical_details.resources
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.View_patient_details.resources
 C:\Users\ekxilled\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.csproj.GenerateResource.Cache
+=======
+C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Register_medical_details.resources
+C:\Users\xadden\Documents\GitHub\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.View_patient_details.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.exe.config
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.exe
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.pdb
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.exe
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\ProjetoMetodologia.pdb
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.dll
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.xml
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Login.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Homepage.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Properties.Resources.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.RegisterCliente.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Register_medical_details.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.View_patient_details.resources
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.csproj.GenerateResource.Cache
+C:\Users\Kevin Carvalho\Desktop\school 2nd semester\MDS\TESP_Grupo6_MDS\Prototipo\ProjetoMetodologia\obj\Debug\ProjetoMetodologia.Search_Patient.resources
+>>>>>>> origin/master

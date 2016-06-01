@@ -57,6 +57,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DemoData.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +107,12 @@
     <Compile Include="Register_medical_details.Designer.cs">
       <DependentUpon>Register_medical_details.cs</DependentUpon>
     </Compile>
+    <Compile Include="Search Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search Patient.Designer.cs">
+      <DependentUpon>Search Patient.cs</DependentUpon>
+    </Compile>
     <Compile Include="View_patient_details.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -133,6 +140,9 @@
     <EmbeddedResource Include="Register_medical_details.resx">
       <DependentUpon>Register_medical_details.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Search Patient.resx">
+      <DependentUpon>Search Patient.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View_patient_details.resx">
       <DependentUpon>View_patient_details.cs</DependentUpon>
     </EmbeddedResource>
@@ -151,6 +161,8 @@
     <None Include="PatientData.edmx.diagram">
       <DependentUpon>PatientData.edmx</DependentUpon>
     </None>
+    <None Include="Properties\DataSources\PatientDataContainer.datasource" />
+    <None Include="Properties\DataSources\PatientDemographicData.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

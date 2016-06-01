@@ -24,5 +24,19 @@ namespace ProjetoMetodologia
             if (registerCliente.ShowDialog() != DialogResult.OK)
                 return;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Search_Patient search = new Search_Patient();
+            if (search.ShowDialog() != DialogResult.OK)
+                return;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            View_patient_details view = new View_patient_details();
+            if (view.ShowDialog() != DialogResult.OK)
+                return;
+        }
     }
 }
