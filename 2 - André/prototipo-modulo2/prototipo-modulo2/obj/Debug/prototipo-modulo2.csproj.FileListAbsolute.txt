@@ -1,0 +1,13 @@
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\prototipo-modulo2.exe.config
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\prototipo-modulo2.exe
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\prototipo-modulo2.pdb
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\EntityFramework.dll
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\EntityFramework.xml
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo-modulo2.csprojResolveAssemblyReference.cache
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo_modulo2.Form1.resources
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo_modulo2.Properties.Resources.resources
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo-modulo2.csproj.GenerateResource.Cache
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo-modulo2.exe
+C:\Users\xadden\Desktop\prototipo-modulo2\prototipo-modulo2\obj\Debug\prototipo-modulo2.pdb
