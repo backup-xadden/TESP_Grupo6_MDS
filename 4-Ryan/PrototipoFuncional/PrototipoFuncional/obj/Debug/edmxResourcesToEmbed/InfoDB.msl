@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InfoDBStoreContainer" CdmEntityContainer="InfoDBContainer">
+    <EntitySetMapping Name="InformationSet">
+      <EntityTypeMapping TypeName="IsTypeOf(InfoDB.Information)">
+        <MappingFragment StoreEntitySet="InformationSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Ocupation" ColumnName="Ocupation" />
+          <ScalarProperty Name="Symptoms" ColumnName="Symptoms" />
+          <ScalarProperty Name="Medication" ColumnName="Medication" />
+          <ScalarProperty Name="Diagnoses" ColumnName="Diagnoses" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

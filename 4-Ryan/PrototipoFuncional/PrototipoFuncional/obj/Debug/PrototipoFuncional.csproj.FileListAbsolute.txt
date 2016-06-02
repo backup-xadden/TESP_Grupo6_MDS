@@ -1,0 +1,15 @@
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\PrototipoFuncional.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\PrototipoFuncional.exe
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\PrototipoFuncional.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.exe
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.View_details.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\obj\Debug\PrototipoFuncional.Register.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\EntityFramework.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\EntityFramework.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PrototipoFuncional\PrototipoFuncional\bin\Debug\EntityFramework.SqlServer.xml
